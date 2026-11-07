@@ -7,9 +7,17 @@
 | 文件 | 说明 |
 | --- | --- |
 | `dnd-one-shot-shidu.pdf` | 5 页试读 PDF（A4，黑白打印友好，字体已嵌入子集） |
+| `dnd-one-shot-shidu-en.pdf` | 5-page English version of the same preview (A4, Helvetica, same content, same SRD 5.2.1 attribution on every page) |
 | `build_pdf.py` | 生成脚本（Python + reportlab；字体见 `fonts/`） |
+| `build_pdf_en.py` | English build script (Python + reportlab, built-in Helvetica; no CJK font needed) |
 | `fonts/NotoSansSC-Regular.ttf`、`fonts/NotoSansSC-Bold.ttf` | 由系统 Noto Sans CJK SC（OTF/CFF）经 fontTools cu2qu 转换的 TTF 版，仅供本 PDF 嵌入使用 |
 | `README-试读.md` | 本文件 |
+
+## 英文版（English version）
+
+- 英文试读与中文试读内容相同、同为 5 页：Session Zero 清单、首战速查卡（上/下）、原创冒险《萤火溪的断桥》开场与首场遭遇数据卡。
+- The English preview has the same 5 pages and the same content as the Chinese preview: Session Zero checklist, first-fight quick cards (1/2), and the opening plus first-encounter stat cards of the original adventure "The Broken Bridge over Firefly Creek". Monster statistics (Goblin Minion p. 290, Wolf p. 364) and the DC table were re-checked against the official SRD 5.2.1 PDF on 2026-11-07; the SRD 5.2.1 CC-BY-4.0 attribution appears on every page of both versions.
+- 语言说明：完整版定价 $12.99 的目标市场是英文 D&D 玩家；英文试读用于该市场的 7 天下载量测试，中文试读保留供中文读者使用。
 
 ## 试读内容结构（5 页）
 
