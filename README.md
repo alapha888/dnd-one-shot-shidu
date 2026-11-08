@@ -1,6 +1,11 @@
 # D&D 2024 SRD-only 新手 DM 一次性冒险包 · 试读版 — 核查说明
 
-> 试读是验证物，不是成品。本试读未上架、无下载量统计，不含价格、购买链接或销售承诺。
+## 下载试读（免费，5 页 PDF）
+
+- [中文试读 dnd-one-shot-shidu.pdf](https://github.com/alapha888/dnd-one-shot-shidu/releases/download/trial-v1/dnd-one-shot-shidu.pdf) · [英文试读 dnd-one-shot-shidu-en.pdf](https://github.com/alapha888/dnd-one-shot-shidu/releases/download/trial-v1/dnd-one-shot-shidu-en.pdf)（[全部版本见 Release trial-v1](https://github.com/alapha888/dnd-one-shot-shidu/releases/tag/trial-v1)）
+- 试读是验证物，不是成品：正在做 7 天下载量测试（目标 ≥20 次下载才做完整版），不含价格、购买链接或销售承诺。
+
+> 本文件为核查说明：记录试读内容结构、规则出处与 SRD 5.2.1 核对情况。
 
 ## 文件
 
@@ -11,7 +16,7 @@
 | `build_pdf.py` | 生成脚本（Python + reportlab；字体见 `fonts/`） |
 | `build_pdf_en.py` | English build script (Python + reportlab, built-in Helvetica; no CJK font needed) |
 | `fonts/NotoSansSC-Regular.ttf`、`fonts/NotoSansSC-Bold.ttf` | 由系统 Noto Sans CJK SC（OTF/CFF）经 fontTools cu2qu 转换的 TTF 版，仅供本 PDF 嵌入使用 |
-| `README-试读.md` | 本文件 |
+| `README-试读.md` | 试读核查说明（与本文件内容相同） |
 
 ## 英文版（English version）
 
