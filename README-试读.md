@@ -1,6 +1,11 @@
 # D&D 2024 SRD-only 新手 DM 一次性冒险包 · 试读版 — 核查说明
 
-> 试读是验证物，不是成品。本试读未上架、无下载量统计，不含价格、购买链接或销售承诺。
+## 下载试读（免费，5 页 PDF）
+
+- [中文试读 dnd-one-shot-shidu.pdf](https://github.com/alapha888/dnd-one-shot-shidu/releases/download/trial-v1/dnd-one-shot-shidu.pdf) · [英文试读 dnd-one-shot-shidu-en.pdf](https://github.com/alapha888/dnd-one-shot-shidu/releases/download/trial-v1/dnd-one-shot-shidu-en.pdf)（[全部版本见 Release trial-v1](https://github.com/alapha888/dnd-one-shot-shidu/releases/tag/trial-v1)）
+- 试读是验证物，不是成品：正在做 7 天下载量测试（目标 ≥20 次下载才做完整版），不含价格、购买链接或销售承诺。
+
+> 本文件为核查说明：记录试读内容结构、规则出处与 SRD 5.2.1 核对情况。
 
 ## 文件
 
